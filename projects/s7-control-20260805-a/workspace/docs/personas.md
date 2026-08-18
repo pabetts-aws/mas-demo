@@ -1,0 +1,1 @@
+**`docs/personas.md`** — Contains two personas grounding the CLI's user base, providing context for the user stories.

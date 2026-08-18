@@ -1,0 +1,234 @@
+{
+  "files": [
+    {
+      "bytes": 34,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/.gitignore",
+      "path": ".mypy_cache/.gitignore",
+      "sha256": "6a69da670d11530d37f0f0cfdc7bed30b78ea6434e24f7a73208b982e29d322c"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.0.db",
+      "path": ".mypy_cache/3.12/cache.0.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.1.db",
+      "path": ".mypy_cache/3.12/cache.1.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.10.db",
+      "path": ".mypy_cache/3.12/cache.10.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.11.db",
+      "path": ".mypy_cache/3.12/cache.11.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.12.db",
+      "path": ".mypy_cache/3.12/cache.12.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.13.db",
+      "path": ".mypy_cache/3.12/cache.13.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.14.db",
+      "path": ".mypy_cache/3.12/cache.14.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.15.db",
+      "path": ".mypy_cache/3.12/cache.15.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.2.db",
+      "path": ".mypy_cache/3.12/cache.2.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.3.db",
+      "path": ".mypy_cache/3.12/cache.3.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.4.db",
+      "path": ".mypy_cache/3.12/cache.4.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.5.db",
+      "path": ".mypy_cache/3.12/cache.5.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.6.db",
+      "path": ".mypy_cache/3.12/cache.6.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.7.db",
+      "path": ".mypy_cache/3.12/cache.7.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.8.db",
+      "path": ".mypy_cache/3.12/cache.8.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 0,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/3.12/cache.9.db",
+      "path": ".mypy_cache/3.12/cache.9.db",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 190,
+      "key": "tasks/s7-control-20260805-b/workspace/.mypy_cache/CACHEDIR.TAG",
+      "path": ".mypy_cache/CACHEDIR.TAG",
+      "sha256": "f1c13afc555358c9033b0f1f30aaa177fe88bda40f4b8a24598400d547876adc"
+    },
+    {
+      "bytes": 384,
+      "key": "tasks/s7-control-20260805-b/workspace/README.md",
+      "path": "README.md",
+      "sha256": "d9c4c320e93510928b074bc3a30ef706946d55409bc8475c73a35c738593e00c"
+    },
+    {
+      "bytes": 192,
+      "key": "tasks/s7-control-20260805-b/workspace/csv2json/__init__.py",
+      "path": "csv2json/__init__.py",
+      "sha256": "c36fa98b58fe34db35536bab701dc39d8f8f3231fee2fff0bd2521b1dbb00934"
+    },
+    {
+      "bytes": 2811,
+      "key": "tasks/s7-control-20260805-b/workspace/csv2json/cli.py",
+      "path": "csv2json/cli.py",
+      "sha256": "9f0a2761c043d866ffa6327384737714fc7a86ab25a10f5b4ccbfeba3f10573d"
+    },
+    {
+      "bytes": 2646,
+      "key": "tasks/s7-control-20260805-b/workspace/csv2json/converter.py",
+      "path": "csv2json/converter.py",
+      "sha256": "bc8414e7509dec24aa93a558cd0f9a3d38200adf8dddd4de4e7fdc33ef3b9206"
+    },
+    {
+      "bytes": 2472,
+      "key": "tasks/s7-control-20260805-b/workspace/csv2json/io_handler.py",
+      "path": "csv2json/io_handler.py",
+      "sha256": "28fb36660be8f8fda9e3ccedcdcdbbc68ff65838e5036bbd13b1aad044f73461"
+    },
+    {
+      "bytes": 108,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/build-and-test-summary.md",
+      "path": "docs/build-and-test-summary.md",
+      "sha256": "566c56dcac4a30d2d6087ab4ab67a897bab74fa9e14b7fd25485a6adb32dc590"
+    },
+    {
+      "bytes": 68,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/build-test-results.md",
+      "path": "docs/build-test-results.md",
+      "sha256": "c0df39d196eb3667989a47c5f623b19e0acdee14acf973ac4e769d82077297fa"
+    },
+    {
+      "bytes": 5030,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/code-generation-plan.md",
+      "path": "docs/code-generation-plan.md",
+      "sha256": "94d57665e4329ca2d29ad4d45abbd0c9a73a0d45c9e8b0c55e77ac4f749acd83"
+    },
+    {
+      "bytes": 5487,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/code-summary.md",
+      "path": "docs/code-summary.md",
+      "sha256": "01b03aef11105edc0864ab58a2736458c93e9009be6e6f401d2e8d4eb40794a8"
+    },
+    {
+      "bytes": 10372,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/components.md",
+      "path": "docs/components.md",
+      "sha256": "7b267da20221e971aafd49ae8bf776bde20ee939c1d4a9bb90af2d8b389fcaf3"
+    },
+    {
+      "bytes": 10676,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/decisions.md",
+      "path": "docs/decisions.md",
+      "sha256": "cf66ff67d02970b8717920d2a816372fd345d764fb202705b10a5cbc63b7d644"
+    },
+    {
+      "bytes": 2378,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/personas.md",
+      "path": "docs/personas.md",
+      "sha256": "b2a74da7f37aee1542c5efd53e30d34e37784259b3aee7d6a3211b5f7873ff2c"
+    },
+    {
+      "bytes": 1605,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/requirements.md",
+      "path": "docs/requirements.md",
+      "sha256": "c924191b549413cddf92d9abf4e7b1db9e0bd1ffa4d0f50a9aab8894f1c03069"
+    },
+    {
+      "bytes": 5,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/review-verdict.md",
+      "path": "docs/review-verdict.md",
+      "sha256": "c2e3ac47f4a325469c1a2d5f117e463ec943c721986d5d9f09ac4540b7d80526"
+    },
+    {
+      "bytes": 4993,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/stories.md",
+      "path": "docs/stories.md",
+      "sha256": "2482365986d211a802c8c93907ef15b8c8c6316d1fb7eda5626d978a295ef1dd"
+    },
+    {
+      "bytes": 3195,
+      "key": "tasks/s7-control-20260805-b/workspace/docs/usage.md",
+      "path": "docs/usage.md",
+      "sha256": "f81bd597f223ba07ce200e472de0ca9d2373f96e9afc9ef1b962abc66c994a3b"
+    },
+    {
+      "bytes": 377,
+      "key": "tasks/s7-control-20260805-b/workspace/run.py",
+      "path": "run.py",
+      "sha256": "e7a3094fd0e3338398c6e64a6f65544099272dc86905b9c4672e36da145a70be"
+    },
+    {
+      "bytes": 4082,
+      "key": "tasks/s7-control-20260805-b/workspace/test_cli.py",
+      "path": "test_cli.py",
+      "sha256": "3e5035c5b1314e0b9963b2d2b14afc0770cd799daba1d9e6cba228a74ced43ef"
+    },
+    {
+      "bytes": 4930,
+      "key": "tasks/s7-control-20260805-b/workspace/test_converter.py",
+      "path": "test_converter.py",
+      "sha256": "253cbeb5538b71916391f7805803d0093017633e1af02dab83b883a64620b534"
+    },
+    {
+      "bytes": 2042,
+      "key": "tasks/s7-control-20260805-b/workspace/test_io_handler.py",
+      "path": "test_io_handler.py",
+      "sha256": "04ff74bc79917c7589f6e3c3f3c5db9df241ebb41c889c0aaaa1144cc5f5493c"
+    }
+  ],
+  "skipped": [],
+  "task_id": "s7-control-20260805-b"
+}

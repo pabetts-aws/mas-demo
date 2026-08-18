@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csv2json"
+version = "1.0.0"
+description = "Convert a CSV file with a header row into a JSON array of row objects."
+readme = "docs/usage.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "AI-DLC MAS" }]
+
+[project.scripts]
+csv2json = "csv2json.cli:main"
+
+[tool.setuptools]
+packages = ["csv2json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,1 @@
+**`docs/stories.md`** — Contains six INVEST-style user stories, each traced to a requirement from `docs/requirements.md`, with testable acceptance criteria.
