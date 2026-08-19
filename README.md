@@ -45,15 +45,20 @@ Two ways to show MAS working on EXISTING code:
   public repo inside its sandbox, fixes a stated defect, and proves it
   against the repo's own test suite (the benchmark instance is a pinned
   Flask bug). Nothing needs to live here for that.
-- **This repo as the target**: vendor a small piece of public code into
-  `brownfield/` (keep its license header), or — better — use a project MAS
-  already built in `projects/`. Since this repo is public, MAS can clone
-  it in the sandbox: file a bugfix task pointing at it, get the fix back,
-  apply and commit. The showroom becomes its own brownfield corpus.
+- **This repo as the target (future)**: this repo is PRIVATE (AWS org
+  policy) and the platform's sandbox clones anonymously — deliberately,
+  since no credential should ever enter a sandbox that executes generated
+  code. Until the platform grows authenticated fetch (backlog:
+  harness-side tarball staging with the token kept outside the sandbox),
+  live brownfield tasks target public repos; this repo stays the
+  provenance showroom.
 
 ## Roadmap tie-in
 
-The platform's next planned task class is **brownfield-feature** ("add
-capability X to this repo, tests included, suite stays green"). When it
-ships, projects in this repo graduate from one-shot builds to software
-that MAS keeps evolving — submit, fetch, commit, repeat.
+The platform's third task class, **brownfield-feature** ("add capability
+X to an existing repo, tests included, suite stays green"), shipped
+2026-08-18 as pure knowledge-pack data (the C1d plasticity claim,
+exercised for real). Its live eval targets the public pinned Flask
+benchmark because this repo must stay private; once authenticated fetch
+lands, projects here graduate from one-shot builds to software MAS keeps
+evolving — submit, fetch, commit, repeat.
