@@ -1,0 +1,126 @@
+{
+  "files": [
+    {
+      "bytes": 78,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/build-and-test-summary.md",
+      "path": "docs/build-and-test-summary.md",
+      "sha256": "b21d73dcc377ab70708ed29871be9548bb8898ccde4ab41882e2d83db4899443"
+    },
+    {
+      "bytes": 78,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/build-test-results.md",
+      "path": "docs/build-test-results.md",
+      "sha256": "b21d73dcc377ab70708ed29871be9548bb8898ccde4ab41882e2d83db4899443"
+    },
+    {
+      "bytes": 6179,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/code-generation-plan.md",
+      "path": "docs/code-generation-plan.md",
+      "sha256": "50c257c7f8ed84ce65cc66cda0ecaedeb80cf80da137e5882d4e76c6f7bfdd5a"
+    },
+    {
+      "bytes": 5267,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/code-summary.md",
+      "path": "docs/code-summary.md",
+      "sha256": "85facaddcc739e4dac3b0cc26bee3da04113d15a33e055c9b7c480440a05c00e"
+    },
+    {
+      "bytes": 8541,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/components.md",
+      "path": "docs/components.md",
+      "sha256": "3785df9d85697e4c2ab0f2b3cc4e3dd9fa764b6152ccf05048a90cf027509bfe"
+    },
+    {
+      "bytes": 11335,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/decisions.md",
+      "path": "docs/decisions.md",
+      "sha256": "d80923ecc305514ce62665256db018c4f38c59d6b6dc519b844ff72e5d73b240"
+    },
+    {
+      "bytes": 1620,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/personas.md",
+      "path": "docs/personas.md",
+      "sha256": "0e14bcbfc9d423933fd2dc67bd6dd6c8037021bc934bb12e948355dd46a19f3b"
+    },
+    {
+      "bytes": 1405,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/requirements.md",
+      "path": "docs/requirements.md",
+      "sha256": "011d257b572cb418c7aa13d48c1b56cc8e77e580f6b9b585f5ce9045b3c62c47"
+    },
+    {
+      "bytes": 5,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/review-verdict.md",
+      "path": "docs/review-verdict.md",
+      "sha256": "c2e3ac47f4a325469c1a2d5f117e463ec943c721986d5d9f09ac4540b7d80526"
+    },
+    {
+      "bytes": 5633,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/stories.md",
+      "path": "docs/stories.md",
+      "sha256": "c6db6259856189ccf447f1d9a687ff0416b5e4c941c631d3998faf395672b9dc"
+    },
+    {
+      "bytes": 4815,
+      "key": "tasks/textstats-cli-20260821-c/workspace/docs/usage.md",
+      "path": "docs/usage.md",
+      "sha256": "f02838c6e295dc888aa2eb6531ac26cb0432e82a066b9532dc62ee37f059342f"
+    },
+    {
+      "bytes": 445,
+      "key": "tasks/textstats-cli-20260821-c/workspace/pyproject.toml",
+      "path": "pyproject.toml",
+      "sha256": "8471f9e6304d857f552dfca3d36d91ca4a3cbca1ee0e84cf17e571c0a2413008"
+    },
+    {
+      "bytes": 4652,
+      "key": "tasks/textstats-cli-20260821-c/workspace/tests/test_cli.py",
+      "path": "tests/test_cli.py",
+      "sha256": "fa77f8592cda6794c8ce9c08c1748f5a39bebc5d546ee8f255e79b425dce4776"
+    },
+    {
+      "bytes": 1946,
+      "key": "tasks/textstats-cli-20260821-c/workspace/tests/test_counter.py",
+      "path": "tests/test_counter.py",
+      "sha256": "67afcdedce24952a98a7680cca9669d34dfbebdc529399dc2da6ac93f0d5160f"
+    },
+    {
+      "bytes": 2949,
+      "key": "tasks/textstats-cli-20260821-c/workspace/tests/test_formatting.py",
+      "path": "tests/test_formatting.py",
+      "sha256": "842965b764e3f650847692bf7660b5a593ba83f6aab34e85bb7caf5721a73a84"
+    },
+    {
+      "bytes": 599,
+      "key": "tasks/textstats-cli-20260821-c/workspace/textstats/__init__.py",
+      "path": "textstats/__init__.py",
+      "sha256": "85061fced4effdaff9f32e616bd80062b280b374f4fae7d1624e0ba0368cfa40"
+    },
+    {
+      "bytes": 138,
+      "key": "tasks/textstats-cli-20260821-c/workspace/textstats/__main__.py",
+      "path": "textstats/__main__.py",
+      "sha256": "74ced7316d0e928affd63720d921d7fd540ebd922fcca19f090fce802705ee76"
+    },
+    {
+      "bytes": 2853,
+      "key": "tasks/textstats-cli-20260821-c/workspace/textstats/cli.py",
+      "path": "textstats/cli.py",
+      "sha256": "9f7fe46d9e3e70727d86b36bb00620cc1f0e370b479aebcb0f204d130a7e988d"
+    },
+    {
+      "bytes": 1535,
+      "key": "tasks/textstats-cli-20260821-c/workspace/textstats/counter.py",
+      "path": "textstats/counter.py",
+      "sha256": "48ea74fcdeb1e5d64a8b9560af58c4b3f1337e6cf24d20eeabc20f524064fc00"
+    },
+    {
+      "bytes": 2304,
+      "key": "tasks/textstats-cli-20260821-c/workspace/textstats/formatting.py",
+      "path": "textstats/formatting.py",
+      "sha256": "6416d550d8cd6d711b72dfee8bc62caf4fda499e197385cb0d81cb8ff21677d2"
+    }
+  ],
+  "skipped": [],
+  "task_id": "textstats-cli-20260821-c"
+}

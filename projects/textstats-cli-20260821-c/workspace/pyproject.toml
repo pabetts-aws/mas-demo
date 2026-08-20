@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textstats"
+version = "0.1.0"
+description = "A small CLI tool that reports line, word, and character counts for text files."
+requires-python = ">=3.9"
+readme = "docs/usage.md"
+
+[project.scripts]
+textstats = "textstats.cli:main"
+
+[tool.setuptools]
+packages = ["textstats"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
